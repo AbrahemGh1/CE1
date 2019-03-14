@@ -2,7 +2,7 @@
 
 
 /*< + main_part instanceregional app_title="main_part" app_caption="climate-monitor" comment="This is an instance which forms the basis of a BCF main_part." >*/
-    /*< + led instanceregional led_name="led" led_pulse="2500" />*/
+    /*< + led instanceregional led_name="l" led_pulse="2500" />*/
     /*< + push_button instanceregional btn_name="button" />*/
     /*< + temperature instanceregional temp_name="temperature" />*/
     /*< + hygrometer instanceregional hygro_name="humidity" />*/
