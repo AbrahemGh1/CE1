@@ -2,7 +2,7 @@
 
 
 /*< + main_part instanceregional app_title="main_part" app_caption="climate-monitor" comment="This is an instance which forms the basis of a BCF main_part." >*/
-    /*< + operator_component instanceregional led_name="operator_component" led_pulse="2500" />*/
+    /*< + led instanceregional led_name="operator_component" led_pulse="2500" />*/
 /*</ main_part>*/
 
 
