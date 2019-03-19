@@ -158,23 +158,7 @@
             "ParameterType": "TextBox"
           }
         ]
-      },
-      {
-        "categoryID": "294",
-        "parentID": "304",
-        "categoryName": "temperature",
-        "categoryDescription": "Use this to measure the temperature.",
-        "categoryDescription": "",
-        "parameters": [
-          {
-            "ParameterID": "ID",
-            "ParameterName": "ID",
-            "ParameterDefultValue": "",
-            "ParameterValue": "",
-            "ParameterDescription": "ID Description",
-            "ParameterType": "TextBox"
-          }
-        ]
       }
+      
     ]
   }
