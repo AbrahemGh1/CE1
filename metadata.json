@@ -1,4 +1,4 @@
-
+{
 categoryName: "Toolbox",
 categories: [
 {
@@ -6,7 +6,24 @@ categoryID: "294",
 parentID: "304",
 categoryName: "main_part",
 categoryDescription: "",
-parameters: []
+parameters: [
+{
+ParameterID: "ID",
+ParameterName: "ID",
+ParameterDefultValue: "",
+ParameterValue: "",
+ParameterDescription: "ID Description",
+ParameterType: "TextBox"
+},
+{
+ParameterID: "NAME",
+ParameterName: "Name",
+ParameterDefultValue: "",
+ParameterValue: "",
+ParameterDescription: "Name Description",
+ParameterType: "TextBox"
+}
+]
 },
 {
 categoryID: "285",
@@ -39,4 +56,6 @@ ParameterDescription: "How long to blink?",
 ParameterType: "TextBox"
 }
 ]
-},]}
+}
+]
+}
