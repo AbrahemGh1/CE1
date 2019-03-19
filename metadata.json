@@ -173,14 +173,6 @@
             "ParameterValue": "",
             "ParameterDescription": "ID Description",
             "ParameterType": "TextBox"
-          },
-          {
-            "ParameterID": "temp_name",
-            "ParameterName": "temp_name",
-            "ParameterDefultValue": "Temp0",
-            "ParameterValue": "",
-            "ParameterDescription": "Name Description",
-            "ParameterType": "TextBox"
           }
         ]
       }
