@@ -133,31 +133,6 @@
             "ParameterType": "TextBox"
           }
         ]
-      },
-      {
-        "categoryID": "292",
-        "parentID": "304",
-        "categoryName": "luxmeter",
-        "categoryDescription": "A luxmeter can measure the amount of light.",
-        "categoryDescription": "",
-        "parameters": [
-          {
-            "ParameterID": "ID",
-            "ParameterName": "ID",
-            "ParameterDefultValue": "",
-            "ParameterValue": "",
-            "ParameterDescription": "ID Description",
-            "ParameterType": "TextBox"
-          },
-          {
-            "ParameterID": "lux_name",
-            "ParameterName": "lux_name",
-            "ParameterDefultValue": "Lux0",
-            "ParameterValue": "",
-            "ParameterDescription": "Name Description",
-            "ParameterType": "TextBox"
-          }
-        ]
       }
       
     ]
